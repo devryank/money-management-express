@@ -17,7 +17,7 @@ Please wait ... :construction:
 1. **Clone Repository**
 
    ```bash
-   git clone https://github.com/your-username/express-js-project.git
+   git clone https://github.com/devryank/money-management-express.git
 
    ```
 
